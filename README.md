@@ -35,8 +35,6 @@ A simple graphical To-Do List application built using Python's **Tkinter** libra
 2. Select a task and click the **delete button** (trash icon) to remove it from the list.  
 3. All tasks are saved to `tasklist.txt` and loaded automatically on reopening the application.  
 
-## Screenshots  
-Add screenshots of the application to show its functionality visually.  
 
 ## Contributing  
 Feel free to fork the repository and submit pull requests with improvements or additional features.  
